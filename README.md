@@ -22,4 +22,3 @@ I love building stuff with R, Python and JavaScript.
 - ✨ I love the shiny framework, my apps can be found [here](https://shiny.gerinberg.com/)
 - 🖋️ I have a [blog](https://blog.gerinberg.com/)
 - 🐦 I'm on Twitter [@g_inberg](https://twitter.com/g_inberg)
-- 📬 You may contact me by email: \\email{ginberg\[at\]\(gmail\).com}
