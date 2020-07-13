@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ginberg/ginberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome 👋
+
+I love building stuff with R, Python and JavaScript.
+
+- 🖥️ I have a [website](https://gerinberg.com/)
+- ✨ I love the shiny framework, my apps can be found [here](https://shiny.gerinberg.com/)
+- 🖋️ I have a [blog](https://blog.gerinberg.com/)
+- 🐦 I'm on Twitter [@g_inberg](https://twitter.com/g_inberg)
+- 📬 You may contact me by email: \\email{ginberg\[at\]\(gmail\).com}
