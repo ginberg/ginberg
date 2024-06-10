@@ -22,3 +22,4 @@ I love building stuff with R, Python and JavaScript.
 - ✨ I love the shiny framework, my apps can be found [here](https://shiny.gerinberg.com/)
 - 🖋️ I have a [blog](https://blog.gerinberg.com/)
 - 🐦 I'm on Twitter [@g_inberg](https://twitter.com/g_inberg)
+- Currently I am maintaining these R packages [DrugExposureDiagnostics](https://github.com/darwin-eu/DrugExposureDiagnostics) and [FeatureExtraction](https://github.com/OHDSI/FeatureExtraction)
